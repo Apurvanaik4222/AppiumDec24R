@@ -1,0 +1,30 @@
+
+l
+java:S1192g"JDefine a constant instead of duplicating this literal "elementId" 3 times.(«‹‘¢ùÿÿÿÿ8ø…Úò¾2
+y
+java:S1488t"\Immediately return this expression instead of assigning it to the temporary variable "flag".(¦¸øó8ú…Úò¾2
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÚâÐžûÿÿÿÿ8û…Úò¾2
+n
+java:S2095P"LUse try-with-resources or close this "BufferedReader" in a "finally" clause.(õéµ¨ûÿÿÿÿ8¸†Úò¾2
+T
+java:S2589S"7Remove this expression which always evaluates to "true"(®Ï¹š8¹†Úò¾2
+j	java:S1007"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ìÇÐÕ8Á†Úò¾2
+”
+java:S11307"wRemove the declaration of thrown exception 'java.lang.InterruptedException', as it cannot be thrown from method's body.(ìÇÐÕ8Â†Úò¾2
+\	java:S899A";Do something with the "boolean" value returned by "delete".(é‘‚©úÿÿÿÿ8Ô†Úò¾2
+p
+java:S4042A"NUse "java.nio.file.Files#delete" here for better messages on error conditions.(é‘‚©úÿÿÿÿ8Ô†Úò¾2
+X	java:S125G"<This block of commented-out lines of code should be removed.(Ñäõå8Õ†Úò¾2
+L	java:S106U"+Replace this use of System.out by a logger.(Õ†Ïÿÿÿÿÿ8Ø†Úò¾2
+L	java:S106`"+Replace this use of System.out by a logger.(ÐÃ†“ýÿÿÿÿ8Ø†Úò¾2
+X	java:S125_"<This block of commented-out lines of code should be removed.(Üó©Ã8Ø†Úò¾2
+b
+java:S4738f"@Use "java.util.Map.of()" or "java.util.Map.ofEntries()" instead.(ý†Âðùÿÿÿÿ8Ù†Úò¾2
+]
+java:S4738t"@Use "java.util.Map.of()" or "java.util.Map.ofEntries()" instead.(¦¸øó8Û†Úò¾2
+c
+java:S4738€"@Use "java.util.Map.of()" or "java.util.Map.ofEntries()" instead.(‹¼­ÿÿÿÿÿ8Ü†Úò¾2
+^
+java:S4738Š"@Use "java.util.Map.of()" or "java.util.Map.ofEntries()" instead.(ùÀß¾8Ý†Úò¾2
+^
+java:S4738–"@Use "java.util.Map.of()" or "java.util.Map.ofEntries()" instead.(Õòô‚8Þ†Úò¾2

@@ -1,0 +1,6 @@
+
+y
+java:S1488"\Immediately return this expression instead of assigning it to the temporary variable "flag".(ƒ¥ı±8èÓÕò¾2
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÚâĞûÿÿÿÿ8¿³Óò¾2
+d
+java:S1128"GRemove this unused import 'org.openqa.selenium.remote.RemoteWebDriver'.(ú£Ú—8©Ùò¾2

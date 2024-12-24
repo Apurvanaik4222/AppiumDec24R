@@ -1,0 +1,72 @@
+# Created at 2024-12-23T16:51:36.031
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '[[1;31mERROR[0;39m] Access to BrowserStack denied due to incorrect credentials.'.
+
+# Created at 2024-12-23T16:51:36.033
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '[[1;34mINFO[0;39m]'.
+
+# Created at 2024-12-23T16:51:36.035
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '[2024-12-23T11:21:'.
+
+# Created at 2024-12-23T16:51:36.037
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '36.028102600Z][ TESTHUB ] EXCEPTION IN BUILD START EVENT : com.browserstack.testOps.RequestException:'.
+
+# Created at 2024-12-23T16:51:36.038
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream 'Non 200 response'.
+
+# Created at 2024-12-23T16:51:36.039
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream 'at com.browserstack.testOps.RequestException.non200(Unknown Source)'.
+
+# Created at 2024-12-23T16:51:36.040
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream 'at com.browserstack.testOps.RequestUtils.requestToTestOps(Unknown Source)'.
+
+# Created at 2024-12-23T16:51:36.041
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream 'at com.browserstack.testOps.RequestUtils.requestToTestOpsJson(Unknown Source)'.
+
+# Created at 2024-12-23T16:51:36.042
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream 'at com.browserstack.testOps.RequestUtils.launch(Unknown Source)'.
+
+# Created at 2024-12-23T16:51:36.043
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream 'at com.browserstack.testOps.Listener.onStart(Unknown Source)'.
+
+# Created at 2024-12-23T16:51:36.044
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream 'at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)'.
+
+# Created at 2024-12-23T16:51:36.045
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream 'at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)'.
+
+# Created at 2024-12-23T16:51:36.046
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream 'at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)'.
+
+# Created at 2024-12-23T16:51:36.047
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream 'at java.base/java.lang.reflect.Method.invoke(Method.java:568)'.
+
+# Created at 2024-12-23T16:51:36.048
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream 'at com.browserstack.utils.ConditionalInvocationHandler.invoke(Unknown Source)'.
+
+# Created at 2024-12-23T16:51:36.048
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream 'at jdk.proxy2/jdk.proxy2.$Proxy2.onStart(Unknown Source)'.
+
+# Created at 2024-12-23T16:51:36.050
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream 'at com.browserstack.BrowserStackJavaAgent.a(Unknown Source)'.
+
+# Created at 2024-12-23T16:51:36.051
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream 'at com.browserstack.BrowserStackJavaAgent.premain(Unknown Source)'.
+
+# Created at 2024-12-23T16:51:36.051
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream 'at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)'.
+
+# Created at 2024-12-23T16:51:36.052
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream 'at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)'.
+
+# Created at 2024-12-23T16:51:36.053
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream 'at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)'.
+
+# Created at 2024-12-23T16:51:36.054
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream 'at java.base/java.lang.reflect.Method.invoke(Method.java:568)'.
+
+# Created at 2024-12-23T16:51:36.055
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream 'at java.instrument/sun.instrument.InstrumentationImpl.loadClassAndStartAgent(InstrumentationImpl.java:491)'.
+
+# Created at 2024-12-23T16:51:36.056
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream 'at java.instrument/sun.instrument.InstrumentationImpl.loadClassAndCallPremain(InstrumentationImpl.java:503)'.
+

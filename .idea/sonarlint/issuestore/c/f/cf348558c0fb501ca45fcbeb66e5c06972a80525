@@ -1,0 +1,8 @@
+
+o
+java:S2293,"YReplace the type specification in this constructor call with the diamond operator ("<>").(èØ¤Ï
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(õ×Âıøÿÿÿÿ
+p	java:S116"[Rename this field "CartProductNames" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Æï¤À
+j	java:S116"URename this field "TotalPrice" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(£Ğ¾
+O
+java:S2387"4"driver" is the name of a field in "AndroidActions".(âªõòÿÿÿÿÿ

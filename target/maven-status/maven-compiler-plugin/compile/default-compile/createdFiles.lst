@@ -1,0 +1,8 @@
+PajeObjects\IOS\HomePage.class
+Utils\AppiumUtils.class
+PajeObjects\Android\ProductPage.class
+Utils\AppiumUtils$1.class
+PajeObjects\Android\FormPage.class
+PajeObjects\Android\CartPage.class
+Utils\IOSActions.class
+Utils\AndroidActions.class

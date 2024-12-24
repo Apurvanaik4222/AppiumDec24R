@@ -1,0 +1,25 @@
+
+7
+pom.xml,4\4\442292b8a7efeabbe4cc176709b833b1792140ec
+S
+#src/test/java/test/AndroidBase.java,4\a\4a3c0d5d68d7712c992f53b6fb143ccc3644ea63
+[
++src/test/java/test/ShoppingCartE2EMain.java,6\9\691a032e09d08c955f8469b6071211b1a75aeb15
+[
++src/main/java/PajeObjects/IOS/HomePage.java,8\a\8a6040b0df3d6d2164fd709e72778983152acda0
+Q
+!src/test/java/test/IOSBasics.java,3\0\3030bfc996ede31220396e4165914b50399c7ced
+b
+2src/main/java/PajeObjects/Android/ProductPage.java,8\5\85d131ccf23a0c253603dbdd1c012352dfeb2b33
+_
+/src/main/java/PajeObjects/Android/FormPage.java,8\1\81ba17801f496b0fe4c5a3595f086ad97e525303
+_
+/src/main/java/PajeObjects/Android/CartPage.java,c\f\cf348558c0fb501ca45fcbeb66e5c06972a80525
+T
+$src/main/java/Utils/AppiumUtils.java,4\f\4f1dc207ba8b8944b072e6118b59d56036443b72
+W
+'src/main/java/Utils/AndroidActions.java,9\1\916814ae0b9fed97f64dbbd9d45835c2a5615fd2
+O
+src/test/java/test/IOSBase.java,8\c\8c2fda59568015633f6d5b0d81b756415d63344c
+S
+#src/main/java/Utils/IOSActions.java,e\3\e389c599f2dba1dbe2c8d79ffb68d393a49ed1ef

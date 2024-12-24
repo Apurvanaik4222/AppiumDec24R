@@ -1,0 +1,13 @@
+test\ShoppingCartE2EMain.class
+testUtils\ExtentReporting.class
+test\LongPressTest.class
+test\ScrollTest.class
+testUtils\IOSBase.class
+test\DragTest.class
+test\Appiumbascis.class
+test\SwipeTest.class
+test\IOSBasics.class
+test\Miscellaneous.class
+testUtils\AndroidBase.class
+test\ShoppingCartE2E.class
+testUtils\Listners.class

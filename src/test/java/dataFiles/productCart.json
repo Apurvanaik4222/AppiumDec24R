@@ -1,0 +1,16 @@
+[
+  {
+    "name": "John",
+    "gender": "male",
+    "country": "Argentina",
+    "product1": "Jordan 6 Rings",
+    "product2": "PG 3"
+  },
+  {
+    "name": "Alisa",
+    "gender": "Female",
+    "country": "Argentina",
+    "product1": "Jordan 6 Rings",
+    "product2": "PG 3"
+  }
+]

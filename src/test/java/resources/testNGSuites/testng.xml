@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <listeners>
+        <listener class-name="testUtils.Listners"/>
+    </listeners>
+
+    <test verbose="2" preserve-order="true" name="C:/Users/91762/IdeaProjects/AppiumDec24R">
+        <classes>
+            <class name="test.ShoppingCartE2EMain">
+            </class>
+        </classes>
+    </test>
+</suite>
